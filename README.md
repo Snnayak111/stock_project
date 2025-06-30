@@ -69,11 +69,19 @@ StockProject is an Android application for managing and tracking stock wishlists
 - *Custom Error & Loading Handling* – User-friendly messages and progress indicators for all network/database states.
 - *Modular Architecture* – Clear separation of concerns using data, domain, and UI layers.
 
+**Example:**
+
+## 📱 Example: Screenshots
+
+| Explore Screen | Details Screen | Watchlist Screen | Search Screen |
+|----------------|----------------|------------------|----------------|
+| ![Explore Screen](StockProject/app/src/main/res/WhatsApp%20Image%202025-06-30%20at%2021.56.19_1d1af6c7.jpg) | ![Details Screen](StockProject/app/src/main/res/WhatsApp%20Image%202025-06-30%20at%2021.56.19_3509ba77.jpg) | ![Watchlist Screen](StockProject/app/src/main/res/WhatsApp%20Image%202025-06-30%20at%2021.56.19_dd95a5ee.jpg) | ![Search Screen](StockProject/app/src/main/res/WhatsApp%20Image%202025-06-30%20at%2021.56.18_91d03b46.jpg) |
+
 
 ### Demo Video
 
-[App Walkthrough (Google Drive)](https://drive.google.com/your-demo-video-link)
+[App Walkthrough (Google Drive)](https://drive.google.com/file/d/15R7rIVcGtnH0qLOMwaj4sOyOtzbBtZkB/view?usp=drivesdk )
 
 ### APK Download
 
-[Download APK (Google Drive)](https://drive.google.com/your-apk-download-link)
+[Download APK (Google Drive)](https://drive.google.com/file/d/15OX4BCfcnmE1FBcQhKk-nVgzUSer57j2/view?usp=drivesdk)
