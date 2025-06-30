@@ -72,8 +72,8 @@ StockProject is an Android application for managing and tracking stock wishlists
 
 ### Demo Video
 
-https://drive.google.com/file/d/15R7rIVcGtnH0qLOMwaj4sOyOtzbBtZkB/view?usp=drivesdk
+[App Walkthrough (Google Drive)](https://drive.google.com/your-demo-video-link)
 
 ### APK Download
 
-https://drive.google.com/file/d/15OX4BCfcnmE1FBcQhKk-nVgzUSer57j2/view?usp=drivesdk
+[Download APK (Google Drive)](https://drive.google.com/your-apk-download-link)
